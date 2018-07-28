@@ -1,0 +1,164 @@
+.container{
+    background-color: black;
+}
+
+
+.heada{
+    color: aqua;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+
+.past{
+    color: orangered;
+    font-family: 'Audiowide', cursive;
+}
+
+
+.what{
+    color:orangered;
+    font-family: 'Audiowide', cursive;
+}
+.row1{
+    color: yellow;
+}
+.underalj{
+    color: red;
+    font-family: 'Electrolize', sans-serif;
+}
+.al{
+    color: crimson;
+    font-family: 'Aldrich', sans-serif;
+}
+.underada{
+    color: red;
+    font-family: 'Electrolize', sans-serif;
+}
+.ada{
+    color: crimson;
+    font-family: 'Aldrich', sans-serif;
+}
+.underhh{
+    color: red;
+   font-family: 'Electrolize', sans-serif;
+}
+.herman{
+    color: crimson;
+    font-family: 'Aldrich', sans-serif;
+}
+
+
+.era{
+    color: orangered;
+    font-family: 'Audiowide', cursive;
+}
+
+
+.qr{
+    color: mediumblue;
+  font-family: 'Electrolize', sans-serif;
+}
+.quality{
+    color: lightskyblue;
+    font-family: 'Aldrich', sans-serif;
+}
+.sc{
+    color: mediumblue;
+    font-family: 'Electrolize', sans-serif;
+}
+.readability{
+    color: lightskyblue;
+    font-family: 'Aldrich', sans-serif;
+}
+.ac{
+    color: mediumblue;
+    font-family: 'Electrolize', sans-serif;
+}
+.complexity{
+    color: lightskyblue;
+    font-family: 'Aldrich', sans-serif;
+}
+.m{
+    color: mediumblue;
+    font-family: 'Electrolize', sans-serif;
+}
+.methodologies{
+    color: lightskyblue;
+    font-family: 'Aldrich', sans-serif;
+}
+.msu{
+    color: mediumblue;
+    font-family: 'Electrolize', sans-serif;
+}
+.usage{
+    color: lightskyblue;
+    font-family: 'Aldrich', sans-serif;
+}
+.d{
+    color: mediumblue;
+    font-family: 'Electrolize', sans-serif;
+}
+.debug{
+    color: lightskyblue;
+    font-family: 'Aldrich', sans-serif;
+}
+
+.proglang{
+    color: orangered;
+    font-family: 'Audiowide', cursive;
+}
+
+
+.language{
+    color: yellow;
+}
+
+.p{
+    color: darkgreen;
+    font-family: 'Electrolize', sans-serif;
+}
+.pyth{
+    color: lawngreen;
+    font-family: 'Aldrich', sans-serif;
+}
+.cp{
+    color: darkgreen;
+    font-family: 'Electrolize', sans-serif;
+}
+.c{
+    color: lawngreen;
+    font-family: 'Aldrich', sans-serif;
+}
+.j{
+    color: darkgreen;
+    font-family: 'Electrolize', sans-serif;
+}
+.jav{
+    color: lawngreen;
+    font-family: 'Aldrich', sans-serif;
+}
+.r{
+    color: darkgreen;
+    font-family: 'Electrolize', sans-serif;
+}
+.rub{
+    color: lawngreen;
+    font-family: 'Aldrich', sans-serif;
+}
+
+
+.programmers{
+    color: orangered;
+    font-family: 'Audiowide', cursive;
+}
+
+
+.grace{
+    color: ghostwhite;
+    font-family: 'Aldrich', sans-serif;
+}
+.bill{
+    color: ghostwhite;
+    font-family: 'Aldrich', sans-serif;
+}
